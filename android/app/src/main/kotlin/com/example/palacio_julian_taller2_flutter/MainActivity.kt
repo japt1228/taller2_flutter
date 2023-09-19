@@ -1,0 +1,6 @@
+package com.example.palacio_julian_taller2_flutter
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
